@@ -22,13 +22,10 @@ LF-DIDL/
 
 ## Pretrained weights
 
-The pretrained weights for the 5 × 5 angular, 4× spatial SR main model are included in this folder at [`./weights/LF-DIDL_4xSR_epoch_100.tar`](./weights/LF-DIDL_4xSR_epoch_100.tar). This is the epoch-100 checkpoint and contains `epoch`, `state_dict`, `optimizer`, and `scheduler` entries. SHA256:
-
-```text
-8ea030e253d2f953634d6f59ba884a7af398fae421bcae651adad446e165bc59
+The pretrained weights for the 5 × 5 angular, 4× spatial SR main model are included in this folder at [`./weights/LF-DIDL_4xSR_epoch_100.tar`](./weights/LF-DIDL_4xSR_epoch_100.tar). This is the epoch-100 checkpoint and contains `epoch`, `state_dict`, `optimizer`, and `scheduler` entries. 
 ```
 
-The original training log reports PSNR 28.351 and SSIM 0.8838 at epoch 100 on its validation setup. These values should not be taken as results for another dataset or preprocessing pipeline.
+
 
 ## Environment
 
