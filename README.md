@@ -24,11 +24,7 @@ LF-DIDL/
 
 The pretrained weights for the 5 × 5 angular, 4× spatial SR main model are included in this folder at [`./weights/LF-DIDL_4xSR_epoch_100.tar`](./weights/LF-DIDL_4xSR_epoch_100.tar). This is the epoch-100 checkpoint and contains `epoch`, `state_dict`, `optimizer`, and `scheduler` entries. 
 
-Files shared via Baidu Netdisk: **LF-DIDL_Pretrained Models**
-
-Link: https://pan.baidu.com/s/1vTnTH0DpnArJqJtO9n0K6Q?pwd=jvmj
-
-Extraction Code: jvmj
+You can download the pretrained models from [this download link](https://pan.baidu.com/s/1vTnTH0DpnArJqJtO9n0K6Q?pwd=jvmj) (Extraction Code: `jvmj`).
 ```
 
 
